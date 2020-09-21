@@ -1,5 +1,6 @@
 # Learning-JVM
-Integration JVM notes.
+
+JVM notes may include the following courses.
 
 
 > Acknowledgement:
