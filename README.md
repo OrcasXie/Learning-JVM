@@ -5,7 +5,7 @@ JVM notes may include the following courses.
 
 > Acknowledgement:
 
-《Java虚拟机详解》—— 宋红康
+[《Java虚拟机详解》—— 宋红康](https://www.bilibili.com/video/BV1PJ411n7xZ)
 > Expected addition:
 
 《JVM合集》—— 马士兵
